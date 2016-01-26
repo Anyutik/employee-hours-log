@@ -1,9 +1,5 @@
-# Basic Project
+# Employee Hours log
 
- Basic Java Maven Project Structure
-
- * QA
- * Java
- * Maven
+application to count employee hours
 
  [Anna Antonyan](http://sqasolution.com)
